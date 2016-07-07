@@ -12,6 +12,5 @@ public class Example {
         } catch(Exception e) {
             e.printStackTrace();
         }
-        return;
     }
 }
